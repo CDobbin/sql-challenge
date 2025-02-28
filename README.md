@@ -1,6 +1,6 @@
 # sql-challenge
 
-This project involves data modeling, data engineering, and data analysis on historical employee data from Pewlett Hackard. The data comes from six CSV files representing various aspects of the company’s employee records during the 1980s and 1990s. The goal was to design a relational database schema, import the data, and answer analytical queries about the employees, their departments, and related information.
+The data comes from six CSV files representing various aspects of the company’s employee records during the 1980s and 1990s. The goal was to design a relational database schema, import the data, and answer analytical queries about the employees, their departments, and related information.
 
 I used QuickDBD to sketch out the ERD, which details six tables: titles, employees, salaries, departments, dept_emp, and dept_manager.
 Primary keys and foreign keys are defined to ensure referential integrity.
